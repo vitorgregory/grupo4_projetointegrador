@@ -15,7 +15,18 @@ Análise de dados de artista cruzando fontes estaduais e municipais para os segu
  Bases utilizadas:
  
  Portal da transparência Governo do Estado São Paulo 
-  ->  Verba por Municipio
-  ->  Portal da transparência do Munícipio de São Paulo
+  
+  ->  Total de verba para cultura por Municipio
+  
+  Portal da transparência do Munícipio de São Paulo
 
- 
+ -> Análise por Zonas da cidade
+
+ -> Análise por bairros
+
+ -> Empresas contratadas para realizações de eventos
+
+ -> 2020 à 2025
+  
+
+
