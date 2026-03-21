@@ -1,4 +1,4 @@
-# grupo4_projetointegrador
+# Grupo 4 Projeto Integrador
 
 ## Caso de uso:
 Análise de dados de artistas cruzando fontes estaduais e municipais para os seguinte pontos:
@@ -12,9 +12,9 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
  4. Prever custo de eventos
     - Modelo que estima quanto custa um show e quanto deveria custar 
 
- Bases utilizadas:
+ ## Bases de Dados:
  
- Portal da transparência Governo do Estado São Paulo 
+  Portal da transparência Governo do Estado São Paulo 
   
   -  Total de verba para cultura por Municipio
   
@@ -32,14 +32,8 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
 
   - Cruzamento com o portal da transparência
 
- Ferramentas:
+ ## Ferramentas:
 
 
- Alunos:
- - Douglas Esteves
- - Thiago Moreton
- - Ricardo Calvoso
- - Vitor Lins
-  
 
 
