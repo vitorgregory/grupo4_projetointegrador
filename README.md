@@ -15,8 +15,10 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
  ## Bases de Dados:
  
   Portal da transparência Governo do Estado São Paulo 
+
+  - https://dadosabertos.sp.gov.br/manual
   
-  -  Total de verba para cultura por Municipio
+  - Total de verba para cultura por Municipio
   
   Portal da transparência do Munícipio de São Paulo
 
