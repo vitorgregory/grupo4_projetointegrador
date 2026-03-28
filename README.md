@@ -38,6 +38,13 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
 
  ## Ferramentas:
 
+  - Linguagem: Python 3.x.
+    
+  - Bibliotecas de Dados: Pandas, Numpy.
+    
+  - IA/ML: Scikit-learn (Modelagem), Spacy (NLP), PyOD (Biblioteca especializada em detecção de anomalias).
+    
+  - Visualização: Plotly ou PowerBI (para criar o mapa de calor da cidade).
 
 
 
