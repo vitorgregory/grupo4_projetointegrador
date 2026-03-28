@@ -20,6 +20,8 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
   
   Portal da transparência do Munícipio de São Paulo
 
+  - https://apilib.prefeitura.sp.gov.br/store/
+
   - Análise por Zonas da cidade
 
   - Análise por bairros
