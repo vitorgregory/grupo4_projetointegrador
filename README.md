@@ -49,4 +49,13 @@ Análise de dados de artistas cruzando fontes estaduais e municipais para os seg
   - Visualização: Plotly ou PowerBI (para criar o mapa de calor da cidade).
 
 
+  ## Site Radar de cultura:
+
+   Link:https://radardacultura.lovable.app/
+
+  - Plataforma de análise — com mapa interativo, rankings e detecção  de irregularidades em gastos culturais de São Paulo.
+
+  - Modelos de Regressão Linear, K-Means e IQR aplicados ao produto
+
+
 
